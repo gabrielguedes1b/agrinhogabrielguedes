@@ -52,6 +52,10 @@ body {
     width: 120px;
 }
 
+.estudante{
+    background-color: #12a761;
+}
+
 .estudante-icone{
     width: 24px;
     padding: 4px 8px;
